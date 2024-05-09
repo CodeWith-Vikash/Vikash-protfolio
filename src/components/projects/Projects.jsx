@@ -4,6 +4,7 @@ import ecom from '../../assets/ecom.png'
 import chat from '../../assets/chat.png'
 import movie from '../../assets/movie.png'
 import {FaGithub, FaShare } from "react-icons/fa";
+import { FiExternalLink } from "react-icons/fi";
 
 const Projects = () => {
   return (
@@ -22,8 +23,8 @@ const Projects = () => {
               <b>Scss</b>
             </div>
             <div className="options">
-              <p>Code <FaGithub/></p>
-              <p>Live demo <FaShare/></p>
+              <a href=""><p>Code <FaGithub/></p></a>
+              <a href=""><p>Live demo <FiExternalLink/></p></a>
             </div>
           </div>
         </div>
@@ -38,8 +39,8 @@ const Projects = () => {
               <b>Tailwind</b>
             </div>
             <div className="options">
-              <p>Code <FaGithub/></p>
-              <p>Live demo <FaShare/></p>
+              <a href=""><p>Code <FaGithub/></p></a>
+              <a href=""><p>Live demo <FiExternalLink/></p></a>
             </div>
           </div>
         </div>
@@ -55,8 +56,8 @@ const Projects = () => {
               <b>Scss</b>
             </div>
             <div className="options">
-              <p>Code <FaGithub/></p>
-              <p>Live demo <FaShare/></p>
+              <a href=""><p>Code <FaGithub/></p></a>
+              <a href=""><p>Live demo <FiExternalLink/></p></a>
             </div>
           </div>
         </div>

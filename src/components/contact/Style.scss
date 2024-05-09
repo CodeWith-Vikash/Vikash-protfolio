@@ -1,9 +1,8 @@
 .contact{
-    background-color: rgb(122, 122, 247);
-    height: 93.5vh;
     display: flex;
     flex-direction: column;
     gap: 5vh;
+    padding: 5vh 0;
     form{
         display: flex;
         flex-direction: column;
@@ -11,11 +10,17 @@
         align-items: center;
         input{
             width: 300px;
-            height: 30px;
+            height: 40px;
             border: 1px solid black;
             outline: none;
             padding: 5px 10px;
             border-radius:5px;
+        }
+        textarea{
+            outline: none;
+            border: 1px solid black;
+            padding: 5px 10px;
+            border-radius: 5px;
         }
     }
 }

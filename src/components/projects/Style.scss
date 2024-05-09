@@ -38,7 +38,7 @@
                 }
                 .options{
                     display: flex;
-                    width: 220px;
+                    width: 250px;
                     justify-content: center;
                     gap: 20px;
                     // background-color: red;
@@ -49,6 +49,13 @@
                         display: flex;
                         align-items: center;
                         gap: 5px;
+                        border: 1px solid black;
+                        border-radius: 5px;
+                        padding: 5px 10px;
+                    }
+                    p:hover{
+                        background-color: black;
+                        color: white;
                     }
                 }
             }
@@ -71,6 +78,26 @@
             }
             .project2{
                 flex-direction: row-reverse;
+            }
+        }
+    }
+}
+
+@media(min-width:1024px){
+    .projects{
+        .title{
+            font-size: 1.2rem;
+        }
+        section{
+            .project{
+                img{
+                    width: 350px;
+                    height: 250px;
+                }
+                .content{
+                    width: 350px;
+                    
+                }
             }
         }
     }
