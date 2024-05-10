@@ -16,15 +16,18 @@ const Projects = () => {
           <img src={movie} alt="" />
           <div className="content">
             <h3>Movie app🎬</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit aperiam aut magnam nostrum exercitationem. Labore blanditiis iste eos dignissimos consequatur veritatis exercitationem? Cum reiciendis voluptatibus nihil error odio animi perspiciatis.</p>
+            <p>
+Introducing the latest innovation in movie exploration: our cutting-edge movie app! Seamlessly crafted with React, Redux, and SCSS, this web application offers a dynamic and immersive experience for movie enthusiasts. Dive into a world of cinematic wonder as you effortlessly navigate through the latest releases or explore timeless classics with just a few clicks.
+
+With the power of infinite scrolling at your fingertips. </p>
             <div className="tech flex gap-5">
               <b>React</b>
               <b>Redux</b>
               <b>Scss</b>
             </div>
             <div className="options">
-              <a href=""><p>Code <FaGithub/></p></a>
-              <a href=""><p>Live demo <FiExternalLink/></p></a>
+              <a href="https://github.com/CodeWith-Vikash/REACT-Projects/tree/2d47a1dc13d80d260e69fa114b7b9ee13384a773/Movie-app"><p>Code <FaGithub/></p></a>
+              <a href="https://movie-app-gold-tau.vercel.app/"><p>Live demo <FiExternalLink/></p></a>
             </div>
           </div>
         </div>
@@ -33,14 +36,14 @@ const Projects = () => {
           <img src={ecom} alt="" />
           <div className="content">
             <h3>DevShops🏪</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit aperiam aut magnam nostrum exercitationem. Labore blanditiis iste eos dignissimos consequatur veritatis exercitationem? Cum reiciendis voluptatibus nihil error odio animi perspiciatis.</p>
+            <p>Welcome to DevShops, your premier destination for online shopping excellence. Powered by the dynamic duo of React and Tailwind CSS, our e-commerce platform offers a seamless and visually captivating shopping experience. With an array of products spanning every category imaginable, finding your next must-have item has never been easier.</p>
             <div className="tech flex gap-5">
               <b>React</b>
               <b>Tailwind</b>
             </div>
             <div className="options">
-              <a href=""><p>Code <FaGithub/></p></a>
-              <a href=""><p>Live demo <FiExternalLink/></p></a>
+              <a href="https://github.com/CodeWith-Vikash/REACT-Projects/tree/2d47a1dc13d80d260e69fa114b7b9ee13384a773/my-store"><p>Code <FaGithub/></p></a>
+              <a href="https://vikash-dev-store.netlify.app/"><p>Live demo <FiExternalLink/></p></a>
             </div>
           </div>
         </div>
@@ -49,15 +52,17 @@ const Projects = () => {
           <img src={chat} alt="" />
           <div className="content">
             <h3>Chat app📲</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit aperiam aut magnam nostrum exercitationem. Labore blanditiis iste eos dignissimos consequatur veritatis exercitationem? Cum reiciendis voluptatibus nihil error odio animi perspiciatis.</p>
+            <p>Introducing our latest innovation in digital communication: our sleek and intuitive chat app. Crafted with the trifecta of React, Tailwind CSS, and Firebase, this platform redefines the way you connect with others online. Say goodbye to complicated sign-up processes and hello to seamless communication with just your email login.
+
+With our chat app, finding and connecting with friends has never been easier. Simply search for registered users by their username and initiate private conversations with ease.</p>
             <div className="tech flex gap-5">
               <b>React</b>
-              <b>Redux</b>
-              <b>Scss</b>
+              <b>Firebase</b>
+              <b>Tailwind</b>
             </div>
             <div className="options">
-              <a href=""><p>Code <FaGithub/></p></a>
-              <a href=""><p>Live demo <FiExternalLink/></p></a>
+              <a href="https://github.com/CodeWith-Vikash/REACT-Projects/tree/2d47a1dc13d80d260e69fa114b7b9ee13384a773/chat-app"><p>Code <FaGithub/></p></a>
+              <a href="https://vikash-chat.netlify.app"><p>Live demo <FiExternalLink/></p></a>
             </div>
           </div>
         </div>
