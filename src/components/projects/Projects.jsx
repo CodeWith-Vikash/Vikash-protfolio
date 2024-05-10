@@ -26,8 +26,8 @@ With the power of infinite scrolling at your fingertips. </p>
               <b>Scss</b>
             </div>
             <div className="options">
-              <a href="https://github.com/CodeWith-Vikash/REACT-Projects/tree/2d47a1dc13d80d260e69fa114b7b9ee13384a773/Movie-app"><p>Code <FaGithub/></p></a>
-              <a href="https://movie-app-gold-tau.vercel.app/"><p>Live demo <FiExternalLink/></p></a>
+              <a href="https://github.com/CodeWith-Vikash/REACT-Projects/tree/2d47a1dc13d80d260e69fa114b7b9ee13384a773/Movie-app" target="_blank"><p>Code <FaGithub/></p></a>
+              <a href="https://movie-app-gold-tau.vercel.app/" target="_blank"><p>Live demo <FiExternalLink/></p></a>
             </div>
           </div>
         </div>
@@ -42,8 +42,8 @@ With the power of infinite scrolling at your fingertips. </p>
               <b>Tailwind</b>
             </div>
             <div className="options">
-              <a href="https://github.com/CodeWith-Vikash/REACT-Projects/tree/2d47a1dc13d80d260e69fa114b7b9ee13384a773/my-store"><p>Code <FaGithub/></p></a>
-              <a href="https://vikash-dev-store.netlify.app/"><p>Live demo <FiExternalLink/></p></a>
+              <a href="https://github.com/CodeWith-Vikash/REACT-Projects/tree/2d47a1dc13d80d260e69fa114b7b9ee13384a773/my-store" target='_blank'><p>Code <FaGithub/></p></a>
+              <a href="https://vikash-dev-store.netlify.app/" target='_blank'><p>Live demo <FiExternalLink/></p></a>
             </div>
           </div>
         </div>
@@ -61,8 +61,8 @@ With our chat app, finding and connecting with friends has never been easier. Si
               <b>Tailwind</b>
             </div>
             <div className="options">
-              <a href="https://github.com/CodeWith-Vikash/REACT-Projects/tree/2d47a1dc13d80d260e69fa114b7b9ee13384a773/chat-app"><p>Code <FaGithub/></p></a>
-              <a href="https://vikash-chat.netlify.app"><p>Live demo <FiExternalLink/></p></a>
+              <a href="https://github.com/CodeWith-Vikash/REACT-Projects/tree/2d47a1dc13d80d260e69fa114b7b9ee13384a773/chat-app" target='_blank'><p>Code <FaGithub/></p></a>
+              <a href="https://vikash-chat.netlify.app" target='_blank'><p>Live demo <FiExternalLink/></p></a>
             </div>
           </div>
         </div>
