@@ -32,7 +32,7 @@ const Hero = () => {
           <IoLogoCss3  className='icon text-blue-700' title='CSS'/>
           <IoLogoJavascript  className='icon text-yellow-500' title='JavaScript'/>
           <RiReactjsLine  className='icon text-blue-600' title='React'/>
-          <TbBrandRedux  className='icon text-orange-500' title='Redux'/>
+          <TbBrandRedux  className='icon text-violet-600' title='Redux'/>
           <IoLogoFirebase  className='icon text-orange-600' title='Firebase'/>
           <RiTailwindCssFill  className='icon text-blue-500' title='Tailwind'/>
           <FaBootstrap  className='icon text-violet-800' title='Bootstrap'/>
