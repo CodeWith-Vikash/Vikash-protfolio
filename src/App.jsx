@@ -5,6 +5,7 @@ import Projects from './components/projects/Projects'
 import Contact from './components/contact/Contact'
 import About from './components/about/About'
 import Navbar from './components/navbar/Navbar'
+import Footer from './components/Footer/Footer'
 
 const App = () => {
   return (
@@ -18,6 +19,7 @@ const App = () => {
         <Route path='/about' element={<About/>}/>
         <Route path='*' element={<Home/>}/>
       </Routes>
+      <Footer/>
     </BrowserRouter>
   )
 }

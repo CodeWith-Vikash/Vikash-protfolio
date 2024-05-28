@@ -1,8 +1,6 @@
 
 nav{
     padding:7px 12px;
-    position: sticky;
-    top: 0;
     background-color: white;
     .options{
         display: none;
@@ -21,6 +19,8 @@ nav{
 @media(min-width:768px){
    nav{
     padding:15px 50px;
+    position: sticky;
+    top: 0;
     .options{
         display: block;
     }

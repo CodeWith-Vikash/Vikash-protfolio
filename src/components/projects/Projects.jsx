@@ -33,17 +33,17 @@ With the power of infinite scrolling at your fingertips. </p>
         </div>
           {/* 999999999999999999999999 */}
         <div className="project project2">
-          <img src={ecom} alt="" />
+          <img src={ecom} alt="" /> 
           <div className="content">
-            <h3>DevShops🏪</h3>
-            <p>Welcome to DevShops, your premier destination for online shopping excellence. Powered by the dynamic duo of React and Tailwind CSS, our e-commerce platform offers a seamless and visually captivating shopping experience. With an array of products spanning every category imaginable, finding your next must-have item has never been easier.</p>
+            <h3>INDICART🏪</h3>
+            <p>Welcome to INDICART, your premier destination for online shopping excellence. Powered by the dynamic duo of React and Tailwind CSS, our e-commerce platform offers a seamless and visually captivating shopping experience. With unlimited products spanning every category imaginable, finding your next must-have item has never been easier.</p>
             <div className="tech flex gap-5">
               <b>React</b>
               <b>Tailwind</b>
             </div>
             <div className="options">
-              <a href="https://github.com/CodeWith-Vikash/REACT-Projects/tree/2d47a1dc13d80d260e69fa114b7b9ee13384a773/my-store" target='_blank'><p>Code <FaGithub/></p></a>
-              <a href="https://vikash-dev-store.netlify.app/" target='_blank'><p>Live demo <FiExternalLink/></p></a>
+              <a href="https://github.com/CodeWith-Vikash/INDICART.git" target='_blank'><p>Code <FaGithub/></p></a>
+              <a href="https://indicart.vercel.app/" target='_blank'><p>Live demo <FiExternalLink/></p></a>
             </div>
           </div>
         </div>

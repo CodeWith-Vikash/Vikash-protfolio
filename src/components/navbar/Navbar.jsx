@@ -17,7 +17,7 @@ const Navbar = () => {
   }
   return (
     <>
-      <nav className='flex items-center justify-between '>
+      <nav className='flex items-center justify-between bg-gray-900 text-white'>
         <h1 className='font-bold '>vikash.dev</h1>
         
         {!isnav?<GiHamburgerMenu size="1.3rem" className='icon' onClick={toggle}/>:<MdOutlineClose className='icon' size="1.4rem" onClick={toggle}/>}
