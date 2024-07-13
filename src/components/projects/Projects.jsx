@@ -2,7 +2,7 @@ import React from 'react'
 import './Style.scss'
 import ecom from '../../assets/ecom.png'
 import chat from '../../assets/chat.png'
-import movie from '../../assets/movie.png'
+import Tech from '../../assets/techbro.png'
 import {FaGithub, FaShare } from "react-icons/fa";
 import { FiExternalLink } from "react-icons/fi";
 
@@ -13,21 +13,18 @@ const Projects = () => {
       <p className='title font-semibold'>Each project is a unique piece of development🧑‍💻</p>
       <section>
         <div className="project project1">
-          <img src={movie} alt="" />
+          <img src={Tech} alt="" />
           <div className="content">
-            <h3>Movie app🎬</h3>
-            <p>
-Introducing the latest innovation in movie exploration: our cutting-edge movie app! Seamlessly crafted with React, Redux, and SCSS, this web application offers a dynamic and immersive experience for movie enthusiasts. Dive into a world of cinematic wonder as you effortlessly navigate through the latest releases or explore timeless classics with just a few clicks.
-
-With the power of infinite scrolling at your fingertips. </p>
+            <h3>Techbro 👨‍💻</h3>
+            <p>TechBro is a specialized platform designed to empower college students and beginners in their coding journey. Built with React, Redux, and SCSS, TechBro offers a rich array of resources including comprehensive courses, detailed documentation, curated roadmaps, and a curated selection of tutorials sourced directly from YouTube. Whether you're just starting out or aiming to delve into advanced tech stacks, TechBro provides the structured guidance and tools you need to succeed. Join us today and unlock your coding potential with TechBro!. </p>
             <div className="tech flex gap-5">
               <b>React</b>
               <b>Redux</b>
               <b>Scss</b>
             </div>
             <div className="options">
-              <a href="https://github.com/CodeWith-Vikash/REACT-Projects/tree/2d47a1dc13d80d260e69fa114b7b9ee13384a773/Movie-app" target="_blank"><p>Code <FaGithub/></p></a>
-              <a href="https://movie-app-gold-tau.vercel.app/" target="_blank"><p>Live demo <FiExternalLink/></p></a>
+              <a href="https://github.com/CodeWith-Vikash/Techbro" target="_blank"><p>Code <FaGithub/></p></a>
+              <a href="https://learnwithtechbro.vercel.app/" target="_blank"><p>Live demo <FiExternalLink/></p></a>
             </div>
           </div>
         </div>
